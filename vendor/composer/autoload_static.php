@@ -8,8 +8,8 @@ class ComposerStaticInit799dc9722ec54a2743d9d6d2f061ce84
 {
     public static $files = array (
         'be01b9b16925dcb22165c40b46681ac6' => __DIR__ . '/..' . '/wp-cli/php-cli-tools/lib/cli/cli.php',
-        'ebd6e48b5d2993ca12ab1554aff058e1' => __DIR__ . '/../..' . '/src/Controller.php',
-        '762d9c4194c6202edc0049188cb438e3' => __DIR__ . '/../..' . '/src/View.php',
+        'abc9ad4da46e4e14194961757c6f0387' => __DIR__ . '/../..' . '/src/Controller.php',
+        '6b2d0b9ca044c9b9376f771b917eeb60' => __DIR__ . '/../..' . '/src/View.php',
     );
 
     public static $prefixesPsr0 = array (

@@ -1,5 +1,5 @@
 {
-    "name": "igor/gcd",
+    "name": "igornadkin/gcd",
     "description": "Игра для вычисления наибольшего общего делителя (НОД) двух чисел",
     "type": "project",
     "require": {

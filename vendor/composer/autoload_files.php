@@ -7,6 +7,6 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'be01b9b16925dcb22165c40b46681ac6' => $vendorDir . '/wp-cli/php-cli-tools/lib/cli/cli.php',
-    'ebd6e48b5d2993ca12ab1554aff058e1' => $baseDir . '/src/Controller.php',
-    '762d9c4194c6202edc0049188cb438e3' => $baseDir . '/src/View.php',
+    'abc9ad4da46e4e14194961757c6f0387' => $baseDir . '/src/Controller.php',
+    '6b2d0b9ca044c9b9376f771b917eeb60' => $baseDir . '/src/View.php',
 );

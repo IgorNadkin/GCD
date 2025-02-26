@@ -1,9 +1,9 @@
 <?php
-namespace PHP_Nadkin_IS\GCD\Controller;
+namespace igornadkin\GCD\Controller;
 
-use function PHP_Nadkin_IS\GCD\View\showWelcome;
-use function PHP_Nadkin_IS\GCD\View\askQuestion;
-use function PHP_Nadkin_IS\GCD\View\showResult;
+use function igornadkin\GCD\View\showWelcome;
+use function igornadkin\GCD\View\askQuestion;
+use function igornadkin\GCD\View\showResult;
 
 function gcd($a, $b) {
     return $b ? gcd($b, $a % $b) : $a;

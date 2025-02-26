@@ -1,5 +1,5 @@
 <?php
-namespace PHP_Nadkin_IS\GCD\View;
+namespace igornadkin\GCD\View;
 
 use function cli\line;
 use function cli\prompt;
